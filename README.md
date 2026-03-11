@@ -16,9 +16,9 @@
 ### 🧑‍💻 About Me
 
 ```yaml
-name: math
+name: Math
 location: Brazil 🇧🇷
-education: computer engineering
+education: Computer Engineering Student
 interests: Web Development, Automation, Open Source
 currently_learning: Rust, Systems Programming
 fun_fact: I automate everything I do more than twice
