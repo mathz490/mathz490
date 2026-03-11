@@ -16,13 +16,23 @@
 ### 🧑‍💻 About Me
 
 ```yaml
-name: Easy
+name: math
 location: Brazil 🇧🇷
-education: Mathematics Student
+education: computer engineering
 interests: Web Development, Automation, Open Source
 currently_learning: Rust, Systems Programming
 fun_fact: I automate everything I do more than twice
 ```
+
+---
+
+### 🎧 Vibes
+
+<div align="center">
+
+[![spotify](https://img.shields.io/badge/▶_Play_on_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/1qyiBNYS01TjMkmoeTLJXN)
+
+</div>
 
 ---
 
